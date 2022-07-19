@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunksumatera_soil"]=self["webpackChunksumatera_soil"]||[]).push([[55],{3055:function(a,r,n){n.r(r),n.d(r,{default:function(){return o}});var e=n(3396);function u(a,r,n,u,s,t){return(0,e.wg)(),(0,e.iD)("div",null,"dashboard")}var s=(0,e.aZ)({name:"Dashboard"}),t=n(89);const i=(0,t.Z)(s,[["render",u]]);var o=i}}]);
